@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "s1131437_藍奕_frmWAVPlayer", "s1131437_藍奕_frmWAVPlayer\s1131437_藍奕_frmWAVPlayer.csproj", "{735818D3-BD0E-4EEF-A0E3-1DB6A6A79950}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{735818D3-BD0E-4EEF-A0E3-1DB6A6A79950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{735818D3-BD0E-4EEF-A0E3-1DB6A6A79950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{735818D3-BD0E-4EEF-A0E3-1DB6A6A79950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{735818D3-BD0E-4EEF-A0E3-1DB6A6A79950}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA1E39E1-A5CA-4ACF-B9B0-55E13760EDAD}
+	EndGlobalSection
+EndGlobal
